@@ -3,8 +3,12 @@ Python-based bioinformatics scripts for sequence analysis and data processing
 
 This repository contains Python-based bioinformatics scripts.
 
-## Projects
-- GC Content FASTA Analyzer
+## Project Structure
+
+- gc_content_fasta.py → FASTA GC content calculator  
+- sequence_utils.py → sequence analysis functions  
+- structures.py → codon tables and constants  
+- sample.fasta → example dataset  
   
 ### Example Dataset
 
